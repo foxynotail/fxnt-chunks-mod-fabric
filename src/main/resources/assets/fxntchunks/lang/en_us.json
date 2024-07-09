@@ -1,0 +1,9 @@
+{
+  "itemGroup.fxntchunks.main": "FXNT Chunks",
+  "item.fxntchunks.chunk_wand": "Chunk Wand",
+  "text.autoconfig.fxntchunks.option.chunksSettings": "FXNT Chunks Settings",
+  "text.autoconfig.fxntchunks.option.chunksSettings.maxForceLoadedChunks": "Max Force Loaded Chunks [Global]",
+  "text.autoconfig.fxntchunks.option.chunksSettings.maxForceTickingChunks": "Max Force Loaded Chunks [Global]",
+  "text.autoconfig.fxntchunks.option.chunksSettings.maxPlayerForceLoadedChunks": "Max Force Loaded Chunks Per Player",
+  "text.autoconfig.fxntchunks.option.chunksSettings.maxPlayerForceTickingChunks": "Max Force Loaded Chunks Per Player"
+}

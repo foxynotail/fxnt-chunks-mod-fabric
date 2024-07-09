@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "fxntchunks",
+  "version": "${version}",
+  "name": "FXNT Chunks [Fabric]",
+  "description": "A simple chunk loading mod for Minecraft by FoxyNoTail",
+  "authors": [
+    "FoxyNoTail"
+  ],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/fxntchunks/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.fxnt.fxntchunks.FXNTChunksClient"
+    ],
+    "main": [
+      "net.fxnt.fxntchunks.FXNTChunks"
+    ]
+  },
+  "mixins": [
+    "fxntchunks.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${fabric_loader_version}",
+    "minecraft": "${minecraft_version}",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

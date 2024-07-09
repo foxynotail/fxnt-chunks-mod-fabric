@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.fxnt.fxntchunks.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+  ]
+}
