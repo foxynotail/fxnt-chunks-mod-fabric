@@ -2,7 +2,6 @@ package net.fxnt.fxntchunks.config;
 
 import com.electronwill.nightconfig.core.file.CommentedFileConfig;
 import com.electronwill.nightconfig.core.io.WritingMode;
-import net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents;
 import net.minecraftforge.common.ForgeConfigSpec;
 
 import java.nio.file.Path;
