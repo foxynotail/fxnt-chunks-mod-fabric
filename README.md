@@ -1,3 +1,6 @@
+# Updates
+There are no plans to support or update this mod. It is open source so feel free to modify and update it yourself.
+
 # FXNT Chunks
 A simple Chunk Loading mod that allows (OP) players to select chunks to force load or force tick using a Chunk Wand item.
 
